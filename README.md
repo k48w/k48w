@@ -319,11 +319,27 @@ I learn engineering by building real projects, debugging real issues, and improv
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=k48w&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+![Commits](https://img.shields.io/badge/Commits-Consistent-111111?style=for-the-badge&logo=git&logoColor=white&labelColor=991B1B)
+![Projects](https://img.shields.io/badge/Projects-Active-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B91C1C)
+![Learning](https://img.shields.io/badge/Learning-Always-111111?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=DC2626)
+![Builder](https://img.shields.io/badge/Builder-Product_Minded-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7F1D1D)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Signal | Focus |
+|:---|:---|
+| **Engineering Direction** | AI systems, automation, full stack products, software architecture |
+| **Repository Style** | Clear README files, stronger project communication, better structure |
+| **Current Growth** | Building deeper projects instead of collecting shallow repositories |
+| **Long-Term Goal** | Become a stronger product-minded software engineer |
 
 </div>
 
