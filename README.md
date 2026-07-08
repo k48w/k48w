@@ -1,18 +1,18 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:050505,35:120202,65:450A0A,100:DC2626&text=k48w&fontColor=FFFFFF&fontSize=78&fontAlignY=34&animation=fadeIn&desc=Software%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Product%20Architecture&descAlignY=56&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:030303,35:120202,65:3F0707,100:B91C1C&text=k48w&fontColor=FFFFFF&fontSize=82&fontAlignY=34&animation=fadeIn&desc=Software%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Product%20Architecture&descAlignY=56&descSize=17" />
 </p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=700&color=F87171&center=true&vCenter=true&repeat=true&width=920&height=72&lines=Building+software+with+architecture%2C+clarity+and+intent.;AI+Systems+%E2%80%A2+Automation+%E2%80%A2+Full+Stack+Engineering.;Turning+rough+ideas+into+real+products.;Learning+fast.+Shipping+faster.+Refactoring+smarter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=800&color=F87171&center=true&vCenter=true&repeat=true&width=930&height=72&lines=Building+software+with+architecture+and+intent.;AI+Systems+%E2%80%A2+Automation+%E2%80%A2+Full+Stack+Engineering.;Product-minded+development+with+real+iteration.;Build.+Debug.+Refactor.+Ship.)](https://git.io/typing-svg)
 
 <br/>
 
-![Student Developer](https://img.shields.io/badge/Student_Developer-050505?style=flat-square&logo=academia&logoColor=white&labelColor=7F1D1D)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-050505?style=flat-square&logo=codecrafters&logoColor=white&labelColor=991B1B)
-![AI Systems](https://img.shields.io/badge/AI_Systems-050505?style=flat-square&logo=githubcopilot&logoColor=white&labelColor=B91C1C)
-![Automation](https://img.shields.io/badge/Automation-050505?style=flat-square&logo=zapier&logoColor=white&labelColor=DC2626)
-![Product Builder](https://img.shields.io/badge/Product_Builder-050505?style=flat-square&logo=vercel&logoColor=white&labelColor=EF4444)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-050505?style=flat-square&logo=codecrafters&logoColor=white&labelColor=7F1D1D)
+![AI Systems](https://img.shields.io/badge/AI_Systems-050505?style=flat-square&logo=githubcopilot&logoColor=white&labelColor=991B1B)
+![Automation](https://img.shields.io/badge/Automation-050505?style=flat-square&logo=zapier&logoColor=white&labelColor=B91C1C)
+![Product Builder](https://img.shields.io/badge/Product_Builder-050505?style=flat-square&logo=vercel&logoColor=white&labelColor=DC2626)
+![Student Developer](https://img.shields.io/badge/Student_Developer-050505?style=flat-square&logo=academia&logoColor=white&labelColor=EF4444)
 
 <br/><br/>
 
@@ -32,27 +32,27 @@
 
 <table>
 <tr>
-<td width="58%">
+<td width="58%" valign="top">
 
 ## About
 
-I am a **student developer and independent builder** focused on software engineering, AI systems, automation, full stack development, and product-driven architecture.
+I am a **student developer and independent builder** focused on **software engineering**, **AI systems**, **automation**, **full stack development**, and **product architecture**.
 
-I build projects to understand how real systems work: architecture, state, APIs, user interfaces, performance, tooling, debugging, automation, and long-term maintainability.
+I build projects to understand how real systems work: architecture, state, APIs, user interfaces, performance, debugging, tooling, automation, and long-term maintainability.
 
-My goal is not to make things look complex. My goal is to build things that can actually evolve.
+My goal is not to make things look complex. My goal is to build things that can evolve without turning into chaos.
 
 </td>
-<td width="42%">
+<td width="42%" valign="top">
 
 ## Engineering Signal
 
 ```txt
+profile      k48w
 status       active builder
 focus        AI + software architecture
 style        product-minded engineering
-mindset      build → debug → refactor → improve
-location     Brazil
+workflow     build → debug → refactor → ship
 portfolio    k48w.vercel.app
 ```
 
@@ -66,32 +66,32 @@ portfolio    k48w.vercel.app
 
 <table>
 <tr>
-<td width="25%">
+<td width="25%" valign="top">
 
 ### Architecture
 
-Designing cleaner boundaries, modular systems, and codebases that do not collapse as they grow.
+Clean boundaries, modular systems, maintainable codebases, and decisions that survive growth.
 
 </td>
-<td width="25%">
+<td width="25%" valign="top">
 
 ### AI Systems
 
-Exploring LLM workflows, AI-assisted tools, intelligent automation, and product-ready AI features.
+LLM workflows, AI-assisted tooling, automation, structured outputs, and product-ready intelligence.
 
 </td>
-<td width="25%">
+<td width="25%" valign="top">
 
 ### Full Stack
 
-Building interfaces, APIs, dashboards, workflows, and complete product experiences.
+Interfaces, APIs, dashboards, data flow, product surfaces, and usable application experiences.
 
 </td>
-<td width="25%">
+<td width="25%" valign="top">
 
-### Product Thinking
+### Product Mindset
 
-Connecting code, UX, performance, architecture, and actual usefulness.
+Code, UX, performance, reliability, and maintainability treated as one engineering system.
 
 </td>
 </tr>
@@ -152,12 +152,12 @@ Connecting code, UX, performance, architecture, and actual usefulness.
 
 | Area | What I Care About | Current Direction |
 |:---|:---|:---|
-| **Software Architecture** | boundaries, maintainability, modularity, clarity | building systems that can grow without becoming messy |
-| **AI Engineering** | LLM workflows, structured outputs, automation, tool usage | turning AI from a toy into product infrastructure |
+| **Software Architecture** | boundaries, modularity, maintainability, clarity | building systems that can grow without becoming messy |
+| **AI Engineering** | LLM workflows, structured outputs, automation, tool usage | turning AI from an experiment into product infrastructure |
 | **Full Stack Development** | UX, APIs, state, data flow, deployment | creating usable products instead of isolated code |
 | **Automation** | repetitive tasks, orchestration, reliability | reducing manual work with practical workflows |
 | **Developer Experience** | setup, debugging, documentation, tooling | making projects easier to understand and evolve |
-| **Performance** | responsiveness, simplicity, less waste | improving feel and reliability without overengineering |
+| **Performance** | responsiveness, simplicity, less waste | improving reliability without overengineering |
 | **Open Source Presence** | clarity, repos, README quality, project story | making work easier for others to understand |
 
 ---
@@ -200,6 +200,17 @@ Hercules is not just a repository to store code. It is a sandbox for learning ho
 
 The project helps me practice organizing code around responsibilities, improving architecture without overengineering, separating UI, logic, configuration, and integrations, debugging real issues, thinking about technical debt, and making product decisions instead of only code decisions.
 
+### Engineering Priorities
+
+| Priority | Why It Matters |
+|:---|:---|
+| **Modularity** | Keeps the project easier to evolve |
+| **Maintainability** | Reduces future debugging pain |
+| **Performance** | Makes the product feel better and more reliable |
+| **Developer Experience** | Makes the project easier to continue building |
+| **Clear Boundaries** | Prevents the codebase from turning into a mess |
+| **Product Thinking** | Connects engineering choices to real user experience |
+
 </details>
 
 <br/>
@@ -227,6 +238,17 @@ The goal of hercules-ai is to explore AI as a real engineering component, not ju
 
 The project is a place to study LLM-powered workflows, structured AI outputs, AI-assisted development, model/provider abstraction, automation patterns, observability for AI behavior, and product-ready AI features.
 
+### Engineering Priorities
+
+| Priority | Why It Matters |
+|:---|:---|
+| **Structured Outputs** | Makes AI responses easier to validate and use |
+| **Provider Abstraction** | Prevents the system from being locked to one model/provider |
+| **Diagnostics** | Makes AI behavior easier to debug |
+| **Product Fit** | Ensures AI features solve real product problems |
+| **Automation** | Reduces repetitive work and improves workflows |
+| **Maintainability** | Keeps experiments from becoming unmanageable |
+
 </details>
 
 ---
@@ -238,6 +260,8 @@ The project is a place to study LLM-powered workflows, structured AI outputs, AI
 `Ongoing`
 
 I learn engineering by building real projects, debugging real issues, and improving systems over time.
+
+This is not presented as professional employment. It represents my current technical journey: studying software engineering, experimenting with technologies, building projects, and learning how to think like a better engineer.
 
 ### Scope of Work
 
@@ -279,7 +303,7 @@ I learn engineering by building real projects, debugging real issues, and improv
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Software Engineering
 
@@ -289,7 +313,7 @@ I learn engineering by building real projects, debugging real issues, and improv
 ![Refactoring](https://img.shields.io/badge/Refactoring-111111?style=flat-square&logo=git&logoColor=white&labelColor=7F1D1D)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Artificial Intelligence
 
@@ -300,46 +324,85 @@ I learn engineering by building real projects, debugging real issues, and improv
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & Infrastructure
+
+![Backend](https://img.shields.io/badge/Backend_Architecture-111111?style=flat-square&logo=serverfault&logoColor=white&labelColor=991B1B)
+![Databases](https://img.shields.io/badge/Database_Design-111111?style=flat-square&logo=postgresql&logoColor=white&labelColor=B91C1C)
+![APIs](https://img.shields.io/badge/API_Design-111111?style=flat-square&logo=fastapi&logoColor=white&labelColor=DC2626)
+![Containers](https://img.shields.io/badge/Containers-111111?style=flat-square&logo=docker&logoColor=white&labelColor=7F1D1D)
+
+</td>
+<td width="50%" valign="top">
+
+### Product Engineering
+
+![UX](https://img.shields.io/badge/User_Experience-111111?style=flat-square&logo=figma&logoColor=white&labelColor=991B1B)
+![DX](https://img.shields.io/badge/Developer_Experience-111111?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=B91C1C)
+![Performance](https://img.shields.io/badge/Performance-111111?style=flat-square&logo=speedtest&logoColor=white&labelColor=DC2626)
+![Open Source](https://img.shields.io/badge/Open_Source-111111?style=flat-square&logo=github&logoColor=white&labelColor=7F1D1D)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## GitHub Analytics
+## GitHub Dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=k48w&show_icons=true&hide_border=true&bg_color=050505&title_color=F87171&icon_color=EF4444&text_color=F5F5F5&ring_color=DC2626&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=k48w&hide_border=true&background=050505&ring=DC2626&fire=EF4444&currStreakLabel=F87171&sideLabels=FCA5A5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/><br/>
+### Profile
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k48w&layout=compact&hide_border=true&bg_color=050505&title_color=F87171&text_color=F5F5F5&langs_count=10" />
+![Followers](https://img.shields.io/github/followers/k48w?style=for-the-badge&color=DC2626&labelColor=050505&logo=github&logoColor=white&label=Followers)
+
+![Stars](https://img.shields.io/github/stars/k48w?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=B91C1C&labelColor=050505&logo=github&logoColor=white&label=Stars)
+
+</td>
+<td align="center" width="33%">
+
+### Projects
+
+![Hercules](https://img.shields.io/badge/Hercules-Active-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=991B1B)
+
+![hercules--ai](https://img.shields.io/badge/hercules--ai-Experimental-111111?style=for-the-badge&logo=typescript&logoColor=white&labelColor=DC2626)
+
+</td>
+<td align="center" width="33%">
+
+### Focus
+
+![AI](https://img.shields.io/badge/AI_Systems-Building-111111?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=7F1D1D)
+
+![Architecture](https://img.shields.io/badge/Architecture-Learning-111111?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=B91C1C)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Highlights
+## Stable Activity Overview
+
+> This section avoids unstable third-party stat cards that frequently break, hit rate limits, or return HTTP errors. The profile still keeps a premium dashboard style while staying reliable.
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Commits-Consistent-111111?style=for-the-badge&logo=git&logoColor=white&labelColor=991B1B)
-![Projects](https://img.shields.io/badge/Projects-Active-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=B91C1C)
-![Learning](https://img.shields.io/badge/Learning-Always-111111?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=DC2626)
-![Builder](https://img.shields.io/badge/Builder-Product_Minded-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7F1D1D)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Signal | Focus |
+| Signal | Current Focus |
 |:---|:---|
-| **Engineering Direction** | AI systems, automation, full stack products, software architecture |
-| **Repository Style** | Clear README files, stronger project communication, better structure |
-| **Current Growth** | Building deeper projects instead of collecting shallow repositories |
-| **Long-Term Goal** | Become a stronger product-minded software engineer |
+| **Main Project** | Hercules |
+| **AI Project** | hercules-ai |
+| **Primary Stack** | C# · TypeScript · JavaScript · Python |
+| **Technical Direction** | AI systems, automation, full stack development, software architecture |
+| **Growth Strategy** | Build deeper projects, improve documentation, refine architecture, ship consistently |
 
 </div>
 
